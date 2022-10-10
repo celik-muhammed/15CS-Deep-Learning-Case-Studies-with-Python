@@ -23,8 +23,8 @@
 <thead><tr><th>1.1 Regression</th><th>1.2 Classification</th></tr></thead>
 <tbody>
   <tr>
-    <td><a href="https://github.com/celik-muhammed/ML-Concrete-Slump-Test-Regression-Analysis-Case-Study/blob/master/README.md">01. ML-Concrete-Slump-Test-Regression-Analysis-Case-Study</a></td>
-    <td><a href="https://github.com/celik-muhammed/ML-Raisin-Class-Prediction-Classification-Analysis-Case-Study/blob/master/README.md">02. ML-Raisin-Class-Prediction-Classification-Analysis-Case-Study</a></td>
+    <td><a href="">link</a></td>
+    <td><a href="">link</a></td>
   </tr>
 </tbody>
 <thead align='left'><tr><th colspan=2>2. Convolutional neural networks (CNN)</th></tr></thead>
