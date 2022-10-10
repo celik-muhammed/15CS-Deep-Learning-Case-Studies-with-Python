@@ -30,8 +30,7 @@
 <thead align='left'><tr><th colspan=2>2. Convolutional neural networks (CNN)</th></tr></thead>
 <tbody>
   <tr>
-    <td><a href="">link</a></td>
-    <td><a href="https://github.com/celik-muhammed/DL-fashion_mnist1-Image-Classification-with-CNN-Project/blob/master/README.md">01. DL-fashion_mnist1-Image-Classification-with-CNN-Project</a></td>
+    <td colspan=2><a href="https://github.com/celik-muhammed/DL-fashion_mnist1-Image-Classification-with-CNN-Project/blob/master/README.md">01. DL-fashion_mnist1-Image-Classification-with-CNN-Project</a></td>
   </tr>
 </tbody>
 </table>  
