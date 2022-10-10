@@ -23,15 +23,15 @@
 <thead><tr><th>1.1 Regression</th><th>1.2 Classification</th></tr></thead>
 <tbody>
   <tr>
-    <td><a href="">link</a></td>
+    <td><a href="https://github.com/celik-muhammed/DL-Churn-Prediction-Classification-with-ANN-Project/blob/master/README.md">01. DL-Churn-Prediction-Classification-with-ANN-Project</a></td>
     <td><a href="">link</a></td>
   </tr>
 </tbody>
 <thead align='left'><tr><th colspan=2>2. Convolutional neural networks (CNN)</th></tr></thead>
 <tbody>
   <tr>
-    <td><a href="https://github.com/celik-muhammed/ML-Customers-Segmentation-Cluestering-Analysis-Project/blob/master/README.md">01. ML-Customers-Segmentation-Cluestering-Analysis</a></td>
     <td><a href="">link</a></td>
+    <td><a href="https://github.com/celik-muhammed/DL-fashion_mnist1-Image-Classification-with-CNN-Project/blob/master/README.md">01. DL-fashion_mnist1-Image-Classification-with-CNN-Project</a></td>
   </tr>
 </tbody>
 </table>  
