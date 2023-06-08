@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td><a href="#"></a></td>
-    <td><a href="https://github.com/celik-muhammed/DL-fashion_mnist1-Image-Classification-with-CNN-Project/blob/master/README.md">02. DL_CNN The Fashion MNIST Database Image Classification Project</a></td>
+    <td><a href="https://github.com/celik-muhammed/DL-Fashion_MNIST-Image-Classification-Project/blob/master/README.md">02. DL_CNN The Fashion MNIST Database Image Classification Project</a></td>
   </tr>
   <tr>
     <td><a href="#"></a></td>
