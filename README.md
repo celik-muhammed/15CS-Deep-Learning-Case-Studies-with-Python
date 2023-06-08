@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td><a href="#"></a></td>
-    <td><a href="https://github.com/celik-muhammed/DL_CNN-Cifar100-Image-Classification-Project/blob/master/README.md">03. DL_CNN Cifar10 Image Classification Project</a></td>
+    <td><a href="https://github.com/celik-muhammed/DL_CNN-Cifar100-Image-Classification-Project/blob/master/README.md">03. DL_CNN Cifar100 Image Classification Project</a></td>
   </tr>
 </tbody>
   
